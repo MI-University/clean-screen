@@ -1,6 +1,6 @@
 $(document).ready(function () {
   let rate = 2500
-  let growth = 10
+  let growth = 5
   let intervalId
 
   function resetAndStart() {
